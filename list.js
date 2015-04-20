@@ -75,7 +75,6 @@ function List(module) {
                         context: ".controls",
                         on: [{
                             name: "click",
-                            emit: "requestNewItem",
                             handler: "createItem"
                         }]
                     });
