@@ -7,6 +7,9 @@ No datasources needed.
 
 ### Change Log
 
+#### v0.2.3
+ - Removed useless code.
+
 #### v0.2.2
  - Update data cache after update request.
 
