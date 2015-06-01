@@ -7,6 +7,10 @@ No datasources needed.
 
 ### Change Log
 
+#### v0.3.0
+ - transferred module to the new jxMono organization
+ - updated Bind to `v0.4.0`, Events to `v0.4.0`
+
 #### v0.2.3
  - Removed useless code.
 
